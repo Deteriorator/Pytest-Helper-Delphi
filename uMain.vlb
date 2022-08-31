@@ -1,0 +1,16 @@
+﻿[SpeedButtonTrans]
+Coordinates=200,10,106,33
+Visible=True
+
+[SynEditSource]
+Coordinates=70,20,87,33
+
+[Panel]
+Coordinates=10,10,41,51
+
+[]
+Coordinates=176,62,82,33
+
+[SynEditTarget]
+Coordinates=70,72,58,33
+
